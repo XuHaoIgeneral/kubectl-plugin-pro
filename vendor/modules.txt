@@ -1,0 +1,10 @@
+# github.com/mattn/go-runewidth v0.0.4
+github.com/mattn/go-runewidth
+# github.com/mritd/promptx v0.0.0-20191026063319-27892afe8e3a
+github.com/mritd/promptx
+github.com/mritd/promptx/list
+github.com/mritd/promptx/utils
+# github.com/mritd/readline v0.0.0-20190919142632-e26f42a56c34
+github.com/mritd/readline
+# golang.org/x/sys v0.0.0-20190919044723-0c1ff786ef13
+golang.org/x/sys/unix
